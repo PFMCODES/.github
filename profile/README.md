@@ -70,4 +70,4 @@ If you like what we’re building:
 
 ---
 
-_© 2025 PFMCODES – Built with passion. Powered by the community._
+_© 2026 PFMCODES – Built with passion. Powered by the community._
