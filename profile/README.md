@@ -19,10 +19,14 @@
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| [**Blinkr**](https://github.com/PFMCODES/Blinkr) | A next-generation web browser built for speed, simplicity, and user control. | HTML |
+| [**Blinkr**](https://github.com/PFMCODES/Blinkr) | A next-generation web browser built for speed, simplicity, and user control. | Javascript, HTML, CSS |
 | [**blinkr-mobile**](https://github.com/PFMCODES/blinkr-mobile) | Blinkr, reimagined for mobile devices. | TypeScript |
-| [**n**](https://github.com/PFMCODES/n) | A Node.js module that handles heavy work in the backend. | TypeScript |
-| [**Lexius**](https://github.com/PFMCODES/Lexius) | Likely a theme, extension, or visual utility (details TBD). | CSS |
+| [**n**](https://github.com/PFMCODES/n) | A Node.js module that handles heavy lifting for you. | Javascript |
+| [**Lexius**](https://github.com/PFMCODES/Lexius) | A minimal, web-based code editor built for speed, clarity, and effortless development. | Javascript, HTML, CSS |
+| [**Neutronium**](https://github.com/PFMCODES/neutronium) | Ultra-dense JavaScript framework – maximum performance, minimal overhead | Javascript |
+| [**Lexius Transpiler**](https://github.com/PFMCODES/lexius-transpiler) | A minimal, free code runner api built for lexius, now open-source | Javascript |
+| [**Lexius API**](https://github.com/PFMCODES/lexius-api) | A minimal, web-based API of Lexius code editor | Javascript |
+| [**Blinkr Search**](https://github.com/PFMCODES/Search) | A minimal, fast and secure search engine | Javascript, HTML, CSS |
 
 > 🔍 More coming soon — follow us to stay updated!
 
